@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T13:11:28.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="XYuurbKza5_LqYyLjWzC" version="15.6.0" type="github"><diagram id="DH9oLqAvsHviRjUrgdUJ" name="Page-1">7Vpbc6IwFP41znQf7EC4qI9eavfS7XZrZ7d9jBAhFQgTgmJ//SYQBIr1Mlsr3a0+NDm5AN93vnNOqC1t6CeXFIbud2IjrwUUO2lpoxYAqg5M/kdYVpml09Mzg0OxLScVhgl+QtKoSGuMbRRVJjJCPIbDqtEiQYAsVrFBSsmyOm1GvOpVQ+igmmFiQa9u/Y1t5mbWLugU9s8IO25+ZdXsZSM+zCfLJ4lcaJNlyaRdtLQhJYRlLT8ZIk+Al+OSrRu/MLq+MYoCts+CMXq8bSvJz4lFwyTxV+ja/drW5M0toBfLJ24B0+MbDqaUtxzRar7lF3KxxSkDypD4UxxAhkkgYWernEtK4sBGAg6Fr1m6mKFJCC0xuuTey20u8z3eU3lzhj1vSDxC07WabaCurXN7xCiZo9JIF0w100xv6zkhkqMFogwlJZMk6BIRHzG64lPyUamWVS4CSc+ycD3VkDa35HZaTxqhdHdnvXXhEbwhneIAB1FBDUZkc4XILqHMJQ4JoHdRWAdVoIs5V4SEEt5HxNhKyh3GjFTBRwlm96X2g9jq3JC9USJ3TjurvBPw570vd0qrRLdYlvbydS/SFpGYWmgbNjIeQeogtmWejAgCt61OQJHHHXdRjTyvz6hWkzznZR6HG4m+glMe0SvkQA87AW9bHDDERTAQ/o15yOzLAR/bduYHKMJPcJruJ6AOCQ5Y+jzGoGWMNoK/1QtrSloHfnmVSmzdpDDlHHSVTlVlWW9v9OXeN+JhSlPIbBZxN3hOz/oW9mJscd2doztsjL9p8y+wrbSHQG1rp5RgIbuHsup2SLBQ3UO+304JPtPHcTUJTirBmgJvScxE+qqntrNhHDHi87Ef00fu6J9eNa3NDPEVdhKwkj37bEp3Zvp5nXQHdKWiRGBuyHdgQ74zj5XuQI2ZDH4e54By1rcsjvU/TcEa7pNRoOqH5KePQqQoMHYGvfxQ1ZRKpNNApg/Jd2/AmNksxrqNZ0zdU5vVCkU5vTaNRjHde7FEuSERzo7X/1Oponf0hpUqav3VzQ0ldmyx+pH9b3AfG+J7Ktw7StNKxFyo5RqRIwMtloojOxT2bZsffqO31siaqyN4vK6eHHnzEOTf/Cx1TPBPX5aDJhZrzS7L1b1zf6NSv1rP/XcUYi87A8tX7c2VjqY2LGyBesL4UM525eT8vDPlgHpJdkdja/4+dNO0QgvU0/2HbnboZt/X3w3TTf2F+Ijyq6YJR5Z470Y4xyzVeLf4wUD276XiZxfaxR8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-27T14:22:06.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IM829dMUwLN9pSRyOsLP" version="15.6.0" type="github">
+  <diagram id="DH9oLqAvsHviRjUrgdUJ" name="Page-1">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Vehicle Combination" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="16" y="100" width="150" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-1" target="FejR-0xQScrpxxmyeNhJ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-13" value="Lookup" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FejR-0xQScrpxxmyeNhJ-12" vertex="1" connectable="0">
+          <mxGeometry x="0.2807" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vN8keTi5FK3kIa-0-C21-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-1" target="FejR-0xQScrpxxmyeNhJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-1" value="Route &lt;br&gt;(Custom Object)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-2" value="Customer (Account)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-14" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-9" target="FejR-0xQScrpxxmyeNhJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-17" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-1" target="FejR-0xQScrpxxmyeNhJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-18" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-1" target="FejR-0xQScrpxxmyeNhJ-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-9" value="Route Position&lt;br&gt;(Custom Object)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="474" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-10" value="Product2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-15" value="Contact Point Address&lt;br&gt;(Custom Object)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-16" value="Contact Point Address &lt;br&gt;(Custom Object)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-27" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-19" target="FejR-0xQScrpxxmyeNhJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-19" value="Trailer (Vehicle)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="31" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-25" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-20" target="FejR-0xQScrpxxmyeNhJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-20" value="Truck (Vehicle)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-26" value="Lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FejR-0xQScrpxxmyeNhJ-21" target="FejR-0xQScrpxxmyeNhJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FejR-0xQScrpxxmyeNhJ-21" value="Driver (Contact)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
